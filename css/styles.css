@@ -368,6 +368,8 @@ section {
   background-image: url(../img/pic7.jpg);
   background-size: cover;
 Width:100%;
+no-repeat center center fixed;
+  background-size: cover;
 }
 
 .section-subheading{
